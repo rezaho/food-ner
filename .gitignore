@@ -1,0 +1,4 @@
+**/.ipynb_checkpoints
+data/food_ner_dataset_test.jsonl
+data/food_ner_dataset_training.jsonl
+.vscode/
